@@ -1,0 +1,41 @@
+body {
+  padding: 5px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#picker-section{
+	padding: 10px;
+	width: 750px;
+	margin: 0 auto;
+}
+
+#picker-section h3{
+	margin: 0;
+}
+
+#picker-section div{
+	right: 0;
+	position: relative;
+}
+
+#color-picker{
+	margin:10px;
+}
+
+#grid-section{
+	padding: 10px;
+	width: 750px;
+	margin: 0 auto;
+}
+
+.grid-cell{
+	width: 75px;
+	height: 75px;	
+	border: 1px solid #000;
+	vertical-align: middle;
+	text-align: center
+}
